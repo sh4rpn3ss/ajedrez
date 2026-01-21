@@ -1,6 +1,5 @@
-package ajedrez;
 
-public class tablero {
+StringBuilder sb = new StringBuilder();
     static void main(String[] args) {
         char [][] tablero = {
                 {'♜','♞','♝','♛','♚','♝','♞','♜'},
@@ -22,6 +21,7 @@ public class tablero {
             System.out.println();
         }
     }
+    public boolean hayFICHA(String xd) {
+        return false;
     }
-
 
