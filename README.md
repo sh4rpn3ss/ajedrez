@@ -1,3 +1,5 @@
+Actualmente en Proceso
+
 ♟️ Reglas del Ajedrez
 
 El ajedrez es un juego de estrategia para dos jugadores que se disputa sobre un tablero de 8×8 casillas. Cada jugador controla 16 piezas y el objetivo es dar jaque mate al rey del oponente.
